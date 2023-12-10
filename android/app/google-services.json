@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140704070447",
+    "project_id": "btrade-a4355",
+    "storage_bucket": "btrade-a4355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140704070447:android:a073a8fd06732cb6c5bfda",
+        "android_client_info": {
+          "package_name": "com.example.btradeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140704070447-ri7kdaj99vum6dvmnnkbnsq6huieh521.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8TyuU-j7VaKAwcPwTrEK-Z2FQ9djnAxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140704070447-ri7kdaj99vum6dvmnnkbnsq6huieh521.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
